@@ -13,7 +13,7 @@
   
 📅 *2022 – 2024*  
 **Ingeniero de Sistemas**  
-- Desarrollo y mantenimiento de aplicaciones web y de escritorio (.NET Framework, ASPX, WebForms, Razor, React.js).
+- Desarrollo y mantenimiento de aplicaciones web y de escritorio (.NET Framework, Core,ASPX, WebForms, Razor,Angular, React).
 - Diseño e implementación de APIs RESTful, generación de archivos PDF dinámicos.
 - Desarrollo de microservicios Dockerizados, y gestión de bases de datos con SQL Server y Oracle PL/SQL.
 - Automatización de procesos con Azure DevOps y Git.
@@ -34,7 +34,7 @@
 | Categoría        | Tecnologías & Herramientas |
 |------------------|----------------------------|
 | 👨‍💻 Lenguajes     | C#, Java, Python, PHP      |
-| 🌐 Frontend       | React, jQuery, Bootstrap, HTML5, JavaScript |
+| 🌐 Frontend       | Angular, React, jQuery, Bootstrap, HTML5, JavaScript |
 | 🔙 Backend        | .NET Framework, .NET Core, MVC, Razor Pages |
 | 🗄️ Base de Datos   | SQL Server, Oracle PL/SQL, TOAD |
 | 📦 DevOps         | Git, Azure DevOps, Pipelines |

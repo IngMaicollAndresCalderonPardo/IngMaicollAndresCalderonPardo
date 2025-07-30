@@ -1,31 +1,36 @@
 # 👨‍💻 Maicoll Andrés Calderón Pardo
 
-**Ingeniero de Sistemas Full Stack** con más de 3 años de experiencia en desarrollo de aplicaciones web y de escritorio. Apasionado por transformar procesos manuales en soluciones digitales escalables y eficientes.
+**Ingeniero de Sistemas Full Stack** con más de 3 años de experiencia en desarrollo de aplicaciones web y de escritorio. Apasionado por transformar procesos manuales en soluciones digitales escalables, eficientes y automatizadas. Con sólidos conocimientos en desarrollo backend con .NET, automatización de procesos en bases de datos, generación de artefactos en DevOps, y desarrollo frontend con Angular y React.
 
 ---
 
 ## 💼 Experiencia Profesional
 
 ### 🏢 **Sistemas y Computadores**
-📅 *2021 – 2022*  
+📅 *Noviembre 2021 – Noviembre 2022*  
 **Practicante de Ingeniería de Sistemas**  
 - Migración de aplicaciones de VB.NET a C#, mejorando rendimiento y mantenibilidad.
   
-📅 *2022 – 2024*  
+📅 *Noviembre 2022 – Abril 2024*  
 **Ingeniero de Sistemas**  
-- Desarrollo y mantenimiento de aplicaciones web y de escritorio (.NET Framework, Core,ASPX, WebForms, Razor,Angular, React).
-- Diseño e implementación de APIs RESTful, generación de archivos PDF dinámicos.
+- Desarrollo y mantenimiento de aplicaciones web y de escritorio (.NET Framework, Core, ASPX, WebForms, Razor, Angular, React).
+- Diseño e implementación de APIs RESTful y servicios para consumo de librerías externas.
+- Generación de archivos PDF dinámicos y códigos QR en C#.
 - Desarrollo de microservicios Dockerizados, y gestión de bases de datos con SQL Server y Oracle PL/SQL.
-- Automatización de procesos con Azure DevOps y Git.
+- Automatización de procesos mediante scripts y herramientas propias en SQL Server y Oracle.
+- Implementación de pipelines en Azure DevOps, manejo de variables dinámicas entre plantillas y entornos.
+- Versionamiento con Git y despliegues CI/CD.
 
 ### 🏛️ **Dirección de Sanidad - Policía Nacional de Colombia**
-📅 *2024 – 2025*  
+📅 *Julio 2024 – Febrero 2025*  
 **Ingeniero de Sistemas - Contratista**  
 - Migración de sistemas heredados de VB.NET a C#.
 - Desarrollo de aplicaciones web para áreas de Enfermería y Oncología.
 - Transformación de procesos Excel a plataformas web dinámicas.
-- Gestión de pruebas unitarias con xUnit y uso de TOAD para Oracle.
-- Trabajo bajo metodología basada en entregables mensuales.
+- Automatización de flujos internos relacionados con pacientes, signos vitales, medicamentos y glucometría.
+- Implementación de pruebas unitarias utilizando exclusivamente xUnit.
+- Uso de TOAD para automatización de consultas y procedimientos Oracle.
+- Trabajo bajo metodología basada en entregables mensuales, con planificación, control y ejecución técnica continua.
 
 ---
 
@@ -34,12 +39,12 @@
 | Categoría        | Tecnologías & Herramientas |
 |------------------|----------------------------|
 | 👨‍💻 Lenguajes     | C#, Java, Python, PHP      |
-| 🌐 Frontend       | Angular, React, jQuery, Bootstrap, HTML5, JavaScript |
-| 🔙 Backend        | .NET Framework, .NET Core, MVC, Razor Pages |
-| 🗄️ Base de Datos   | SQL Server, Oracle PL/SQL, TOAD |
-| 📦 DevOps         | Git, Azure DevOps, Pipelines |
-| 📐 Diseño         | UML, POO, Patrones (Singleton, Factory Method) |
-| ⚙️ Otros          | APIs RESTful, Microservicios Dockerizados |
+| 🌐 Frontend       | Angular (con y sin `standalone: true`), React (SPA con Hooks), jQuery, Bootstrap, HTML5, JavaScript |
+| 🔙 Backend        | .NET Framework, .NET Core, MVC, Razor Pages, APIs RESTful |
+| 🗄️ Base de Datos   | SQL Server, Oracle PL/SQL, TOAD, automatización de procesos |
+| 📦 DevOps         | Git, Azure DevOps, Pipelines, creación de artefactos, manejo de variables dinámicas |
+| 🧪 Testing        | xUnit (pruebas unitarias en C#) |
+| ⚙️ Otros          | Generación de PDFs y QR dinámicos en C#, Microservicios Dockerizados, patrones de diseño (Singleton, Factory), UML, POO |
 
 ---
 
@@ -62,8 +67,8 @@
 
 ## 📫 Contacto
 
-- 📧 **Correo:** ing.maicollcalderonpardo@gmail.com 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/maicoll-calderon-pardo)
+- 📧 **Correo:** ing.maicollcalderonpardo@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/maicoll-calderon-pardo](https://www.linkedin.com/in/maicoll-calderon-pardo)
 
 ---
 

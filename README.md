@@ -26,10 +26,9 @@ Actualmente además exploro **PostgreSQL** y uso **inteligencia artificial gener
 **Ingeniero de Sistemas** · Bogotá, Colombia · *Febrero 2026 – actualidad*
 
 - Migración del sistema de bienestar institucional (SIBIS) de **.NET Framework 4.8 + Entity Framework** hacia **ASP.NET Core 8 MVC**, con acceso a datos vía PL/SQL puro (sin ORM).
-- Desarrollo del módulo de **Afiliaciones**: 8 paquetes Oracle (~50 procedimientos/funciones), 37 DTOs, cubriendo 32 requerimientos funcionales de autoservicio y administración.
 - Integración de pasarela de pagos **PSE** y descuento por nómina, e integraciones con sistemas externos (SIATH, LSI, CASUR).
 - Generación dinámica de certificados/carnés en PDF (QuestPDF), códigos de barras/QR (ZXing) y reportes Excel con protección por contraseña.
-- Diseño e implementación desde cero del módulo de **Alianzas** (convenios institucionales): 7 controladores, 7 paquetes Oracle, con mapa interactivo SVG de cobertura geográfica.
+- - Desarrollo del módulo de **Afiliaciones** y Diseño e implementación desde cero del módulo de **Alianzas** (convenios institucionales).
 
 ### 🏥 Dirección de Sanidad — Policía Nacional de Colombia
 **Ingeniero de Sistemas** · Bogotá, Colombia · *Noviembre 2025 – Julio 2026*
@@ -41,8 +40,13 @@ Actualmente además exploro **PostgreSQL** y uso **inteligencia artificial gener
 ### 🇺🇸 Parserr (Estados Unidos)
 **Desarrollador .NET** · Remoto · *Septiembre 2025 – Noviembre 2025*
 
-- Desarrollo de aplicaciones en **.NET y Azure** bajo metodología Sprint, en equipo internacional (Slack, ágil).
-- Uso de **Rider IDE** para desarrollo y mantenimiento de sistemas.
+-	Desarrollo de APIs y endpoints en .NET / C# con Entity Framework.
+-	Implementación de pruebas unitarias bajo la metodología de testing de la compañía.
+-	Integración Backend con React y coordinación con el equipo Frontend.
+-	Participación en capacitaciones técnicas y sesiones de conocimiento.
+-	Comunicación técnica en inglés con equipos internacionales y el CEO.
+-	Trabajo bajo metodología Agile/Scrum y uso de Azure y Rider.
+
 
 ### 🏥 Dirección de Sanidad — Policía Nacional de Colombia
 **Ingeniero de Sistemas** · Bogotá, Colombia · *Julio 2024 – Febrero 2025*
